@@ -1,1 +1,2 @@
 # PopulationGraph
+firfox only
